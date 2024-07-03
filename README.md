@@ -17,6 +17,7 @@ Open Source Community: For the tools and libraries that supported this project.
 Family and Friends: For their support and encouragement.
 
 Screenshots:
+
 ![image](https://github.com/Muz5aina/CurrencyConverterWeb/assets/140427941/372771cb-273c-45ee-89c1-6be894af885b)
 ![image](https://github.com/Muz5aina/CurrencyConverterWeb/assets/140427941/5a6344b9-1dba-43a7-ae50-a4718788a4e4)
 ![image](https://github.com/Muz5aina/CurrencyConverterWeb/assets/140427941/3709dba0-ac9a-4700-9c7d-d18c1ab35bd3)
